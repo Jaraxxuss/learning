@@ -20,14 +20,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/epam/part4/simplestclasses/Tasks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="512" column="16" selection-start-line="512" selection-start-column="16" selection-end-line="512" selection-end-column="16" />
+            <state relative-caret-position="173">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="class#Test1#0" />
                 <element signature="class#Test2#0" />
                 <element signature="method#toString#0;class#Time#0" />
-                <marker date="1568025256562" expanded="true" signature="447:918" ph="..." />
+                <marker date="1568036529858" expanded="true" signature="447:918" ph="..." />
               </folding>
             </state>
           </provider>
@@ -106,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-575" />
     <option name="y" value="140" />
     <option name="width" value="1750" />
@@ -117,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,6 +155,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,11 +295,13 @@
       <workItem from="1567964380267" duration="3432000" />
       <workItem from="1568006691931" duration="3280000" />
       <workItem from="1568024940514" duration="579000" />
+      <workItem from="1568029816219" duration="5397000" />
+      <workItem from="1568036503851" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227384000" />
+    <option name="totallyTimeSpent" value="232803000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,17 +394,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ch1/ex16/MethodAvg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/CharSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
@@ -827,16 +818,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/epam/part4/simplestclasses/Tasks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="512" column="16" selection-start-line="512" selection-start-column="16" selection-end-line="512" selection-end-column="16" />
+        <state relative-caret-position="173">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="class#Test1#0" />
             <element signature="class#Test2#0" />
             <element signature="method#toString#0;class#Time#0" />
-            <marker date="1568025256562" expanded="true" signature="447:918" ph="..." />
+            <marker date="1568036529858" expanded="true" signature="447:918" ph="..." />
           </folding>
         </state>
       </provider>
