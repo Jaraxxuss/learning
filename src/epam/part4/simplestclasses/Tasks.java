@@ -5,7 +5,6 @@ import org.jetbrains.annotations.NotNull;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.HashMap;
 
 public class Tasks {
     public static void main(String[] args) {
@@ -14,7 +13,7 @@ public class Tasks {
 //        sortTrainsByDestination(trains);
 //        System.out.println();
 //        showTrainsList(trains);
-//        Customer[] custumers = Custumers.sortCustumersInAlphabetOrder(new Customer[]{new Customer(14000, "Evgenii", "Sergeevich", "Rudenkov"),
+//        Customer[] customers = Customers.sortCustumersInAlphabetOrder(new Customer[]{new Customer(14000, "Evgenii", "Sergeevich", "Rudenkov"),
 //                new Customer(12345, "Valera", "Sergeevich", "Kavenkin"),
 //                new Customer(12000, "Cheslav", "Sergeevich", "Averchenko"),
 //                new Customer(10000, "Alexandr", "Sergeevich", "Rudenkov")});
@@ -574,7 +573,7 @@ class Customer {
     }
 }
 
-class Custumers {
+class Customers {
 
 
     public static Customer[] sortCustumersInAlphabetOrder(Customer[] customers) {
@@ -662,7 +661,7 @@ class Counter {
 
 class Triangle {
     private Point a, b, c;
-    private double A, B, C, s, p;
+    private double A, B, C;
 
     public Triangle(Point a, Point b, Point c) {
         this.a = a;
@@ -680,31 +679,15 @@ class Triangle {
         return new Point(x, y);
     }
 
-    public void calculateSquare() {
-        double p = (A + B + C) / 2.0;
-        s = Math.sqrt((p - A) * (p - B) * (p - C) * p);
-    }
-
-    public void calculatePerimetr() {
-        p = (A + B + C);
-    }
-
-
     public double getS() {
-        return s;
-    }
-
-    public void setS(double s) {
-        this.s = s;
+        double p = (A + B + C) / 2.0;
+        return Math.sqrt((p - A) * (p - B) * (p - C) * p);
     }
 
     public double getP() {
-        return p;
+        return A + B + C;
     }
 
-    public void setP(double p) {
-        this.p = p;
-    }
 }
 
 class Book {

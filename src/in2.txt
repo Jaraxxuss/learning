@@ -1,0 +1,7 @@
+Petrov 25 42
+Sokolov 65 45
+Voronov 67 60
+Kavenkin 70 70
+Rudenkov 70 100
+Yandovsky 50 70
+Setun 1 1
