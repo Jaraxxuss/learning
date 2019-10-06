@@ -4,7 +4,7 @@ public class Trial {
     private String name;
     private int mark1;
     private int mark2;
-    private static final int PASS_MARK = 120;
+    public static final int PASS_MARK = 120;
 
     public Trial(String name, int mark1, int mark2) {
         this.name = name;
@@ -40,7 +40,7 @@ public class Trial {
     public void setMark2(int mark2) {
         this.mark2 = mark2;
     }
-    private int result() {
+    protected int result() {
         return mark1 + mark2;
     }
     public boolean isPassed() {
@@ -51,6 +51,13 @@ public class Trial {
         return name + ";" + mark1 + ";" + mark2 + ";" + isPassed();
     }
 
+    public double avgSum(){
+       return result() / 2;
+    }
+    public void setMarksToZero(){
+        mark1 = 0;
+        mark2 = 0;
+    }
 
 
 }

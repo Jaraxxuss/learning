@@ -16,20 +16,7 @@
     <favorites_list name="testing" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/Runner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="100" selection-start-line="18" selection-start-column="100" selection-end-line="18" selection-end-column="100" />
-              <folding>
-                <marker date="1569399486776" expanded="true" signature="1799:3791" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,11 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Runner5.java" />
-        <option value="$PROJECT_DIR$/src/epam/part4/agregandcomp/Healthable.java" />
-        <option value="$PROJECT_DIR$/src/epam/part4/agregandcomp/Runner.java" />
-        <option value="$PROJECT_DIR$/src/epam/part4/agregandcomp/Engine.java" />
-        <option value="$PROJECT_DIR$/src/epam/part4/agregandcomp/Wheel.java" />
         <option value="$PROJECT_DIR$/src/epam/part4/agregandcomp/Car.java" />
         <option value="$PROJECT_DIR$/src/epam/part4/agregandcomp/t2/Engine.java" />
         <option value="$PROJECT_DIR$/src/epam/part4/agregandcomp/t3/City.java" />
@@ -67,12 +49,10 @@
         <option value="$PROJECT_DIR$/src/files/SimpleApplet.java" />
         <option value="$PROJECT_DIR$/src/files/SimpleApplet.html" />
         <option value="$PROJECT_DIR$/src/valera/Runner.java" />
-        <option value="$PROJECT_DIR$/src/by/gsu/asoilab/Trial.java" />
         <option value="$PROJECT_DIR$/src/by/gsu/asoilab/Trip.java" />
         <option value="$PROJECT_DIR$/src/algorithms/Function.java" />
         <option value="$PROJECT_DIR$/src/valera/Trip.java" />
         <option value="$PROJECT_DIR$/src/algorithms/Algoritms.java" />
-        <option value="$PROJECT_DIR$/src/Runner.java" />
         <option value="$PROJECT_DIR$/src/by/gsu/asoilab/Subject.java" />
         <option value="$PROJECT_DIR$/src/by/gsu/asoilab/DensityCollection.java" />
         <option value="$PROJECT_DIR$/src/Runner2.java" />
@@ -100,12 +80,19 @@
         <option value="$PROJECT_DIR$/src/patterns/abstractFactory/Application.java" />
         <option value="$PROJECT_DIR$/src/patterns/abstractFactory/ApplicationConfigurator.java" />
         <option value="$PROJECT_DIR$/src/algorithms/Runner.java" />
+        <option value="$PROJECT_DIR$/src/Runner.java" />
+        <option value="$PROJECT_DIR$/src/by/gsu/asoilab/LiteTrial.java" />
+        <option value="$PROJECT_DIR$/src/by/gsu/asoilab/Utils.java" />
+        <option value="$PROJECT_DIR$/src/by/gsu/asoilab/StrongTrial.java" />
+        <option value="$PROJECT_DIR$/src/by/gsu/asoilab/Trial.java" />
+        <option value="$PROJECT_DIR$/src/by/gsu/asoilab/ExtraTrial.java" />
+        <option value="$PROJECT_DIR$/src/RunnerEx0.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="979" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
@@ -113,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,14 +116,7 @@
               <item name="testing" type="b2602c69:ProjectViewProjectNode" />
               <item name="testing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="asoilab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testing" type="b2602c69:ProjectViewProjectNode" />
@@ -149,6 +128,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -162,7 +142,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.23891129" />
   </component>
   <component name="RunDashboard">
@@ -177,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner (3)">
+  <component name="RunManager" selected="Application.RunnerEx0">
     <configuration name="ApplicationConfigurator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.abstractFactory.ApplicationConfigurator" />
       <module name="testing" />
@@ -192,9 +172,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Runner2" />
+    <configuration name="RunnerEx0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunnerEx0" />
       <module name="testing" />
+      <option name="PROGRAM_PARAMETERS" value="Valera" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,18 +196,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Runner (3)" />
-      <item itemvalue="Application.Runner2" />
       <item itemvalue="Application.RunnerVasya" />
       <item itemvalue="Application.TestApp" />
       <item itemvalue="Application.ApplicationConfigurator" />
+      <item itemvalue="Application.RunnerEx0" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunnerEx0" />
         <item itemvalue="Application.Runner (3)" />
         <item itemvalue="Application.ApplicationConfigurator" />
         <item itemvalue="Application.TestApp" />
         <item itemvalue="Application.RunnerVasya" />
-        <item itemvalue="Application.Runner2" />
       </list>
     </recent_temporary>
   </component>
@@ -318,11 +299,15 @@
       <workItem from="1569310279555" duration="404000" />
       <workItem from="1569334725577" duration="2856000" />
       <workItem from="1569398884868" duration="622000" />
+      <workItem from="1569908158907" duration="112000" />
+      <workItem from="1569909107806" duration="9659000" />
+      <workItem from="1569919955012" duration="117000" />
+      <workItem from="1570263337181" duration="94000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="308196000" />
+    <option name="totallyTimeSpent" value="318178000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,15 +319,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="784" height="840" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498998" visible="true" weight="0.2931727" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498998" weight="0.59220093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.501002" side_tool="true" weight="0.2247191" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.33050847" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.32960895" />
       <window_info anchor="bottom" x="61" y="212" width="1513" height="257" id="Debug" order="3" weight="0.35893854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,28 +342,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498998" visible="true" weight="0.2247191" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.501002" side_tool="true" weight="0.2247191" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32960895" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" visible="true" weight="0.35893854" />
-      <window_info anchor="bottom" x="61" y="212" width="1513" height="257" id="Debug" order="3" weight="0.35893854" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3044693" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50033045" side_tool="true" weight="0.30307263" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32960895" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -415,55 +378,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/epam/part4/agregandcomp/t2/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/epam/part4/agregandcomp/t1/Text.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/epam/part4/agregandcomp/t1/TestText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/epam/part4/agregandcomp/t1/Sentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/epam/part4/agregandcomp/t1/Word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/epam/part4/agregandcomp/t3/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/epam/part4/agregandcomp/t3/District.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/epam/part4/agregandcomp/t3/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -529,24 +443,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Trial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding>
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -619,13 +515,6 @@
             <element signature="method#moveSwap#0;class#Algoritms#0" />
             <element signature="method#myInsertionSort_2#0;class#Algoritms#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="83" column="7" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -920,6 +809,87 @@
           <folding>
             <marker date="1569399486776" expanded="true" signature="1799:3791" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="155" column="23" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/LiteTrial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="1463" column="79" lean-forward="true" selection-start-line="1462" selection-start-column="7" selection-end-line="1463" selection-end-column="79" />
+          <folding>
+            <element signature="e#55594#55595#0" expanded="true" />
+            <element signature="e#55640#55641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/StrongTrial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/ExtraTrial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/gsu/asoilab/Trial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RunnerEx0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
         </state>
       </provider>
     </entry>
