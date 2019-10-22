@@ -1,0 +1,6 @@
+1 Milk 140 3 15
+1 Cherry 150 4 25
+2 Bread 90 5 15
+2 Cheese 240 6 10
+3 Apple 10 14 3
+3 Orange 20 50 10
